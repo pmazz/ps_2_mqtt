@@ -1,2 +1,7 @@
 # ps_2_mqtt
-Subscribe / Publish to MQTT via PowerShell
+
+PowerShell script for subscribing and publishing to MQTT topics.
+
+#### Requirements
+
+The script uses the M2Mqtt library, available on Nuget (<https://www.nuget.org/packages/M2Mqtt>).
