@@ -1,5 +1,7 @@
-# ps_2_mqtt
+# MQTT via PowerShell
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/pmazz/ps_2_mqtt)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/pmazz/ps_2_mqtt)](https://github.com/pmazz/ps_2_mqtt/commits)
 PowerShell script for subscribing and publishing to MQTT topics.
 
 #### Requirements
